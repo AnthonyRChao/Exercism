@@ -1,7 +1,7 @@
-## Exercism
+## What is it?
 - Exercism is an online platform designed to help you improve your coding skills through practice and mentorship.
 
-## Why?
+## Why do it?
 - Improve my speed, accuracy, and skill at putting together small scale code, puzzles, and TDD. Boo-yah.
 
 ## What are you focusing on?
