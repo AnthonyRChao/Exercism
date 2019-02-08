@@ -2,7 +2,7 @@
 - Exercism is an online platform designed to help you improve your coding skills through practice and mentorship.
 
 ## Why do it?
-- Improve my speed, accuracy, and skill at putting together small scale code, puzzles, and TDD. Boo-yah.
+- Improve my speed, accuracy, and skill at putting together small scale code, puzzles, and TDD.
 
 ## What are you focusing on?
 - Python!
