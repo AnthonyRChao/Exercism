@@ -8,6 +8,9 @@
 - Python!
 
 ## Cool tricks? Sweet built-in usage?
-- Panagram | issubset(foo)
-- Robot Name | itertools.product(foo, bar)
-- Robot Name | random.shuffle(foo)
+- Panagram | issubset(set) | Test whether every element in the set is in other.
+- Robot Name | itertools.product(\*iterables) | Cartesian product of input iterables.
+- Robot Name | random.shuffle(x) | Shuffle the sequence x in place.
+- Acronym | re.findall(pattern, string) | Return all non-overlapping matches of pattern in string, as a list of strings.
+- Acronym | itertools.groupby(iterable) | Make an iterator that returns consecutive keys and groups from the iterable.
+- Acronym | string.title | Return a titlecased version of the string where words start with an uppercase character and the remaining characters are lowercase.
