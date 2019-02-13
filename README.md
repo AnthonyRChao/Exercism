@@ -1,3 +1,9 @@
+## Started: 
+- 2/7/19 
+
+## Completed:
+- TBD
+
 ## What is it?
 - Exercism is an online platform designed to help you improve your coding skills through practice and mentorship.
 
