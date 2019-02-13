@@ -1,9 +1,3 @@
-## Started: 
-- 2/7/19 
-
-## Completed:
-- TBD
-
 ## What is it?
 - Exercism is an online platform designed to help you improve your coding skills through practice and mentorship.
 
@@ -20,3 +14,9 @@
 - Acronym | **re.findall(pattern, string)** | Return all non-overlapping matches of pattern in string, as a list of strings.
 - Acronym | **itertools.groupby(iterable)** | Make an iterator that returns consecutive keys and groups from the iterable.
 - Acronym | **string.title** | Return a titlecased version of the string where words start with an uppercase character and the remaining characters are lowercase.
+
+## Started: 
+- 2/7/19 
+
+## Completed:
+- TBD
